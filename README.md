@@ -1,3 +1,5 @@
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Praful Vinayak Bhoyar
 =============================================================================================================================================
 
@@ -13,6 +15,7 @@ Data Scientist| Cloud Architect| Python SQL | Data Analyst | BI Developer Help b
 * 🧠  I'm learning Deep in NLP
 * 🤝  I'm open to collaborating on NLP and Cloud Computing in Data Science
 
+![tdsp](https://raw.githubusercontent.com/tirthajyoti/Data-science-best-resources/master/images/tdsp-lifecycle2.png)
 ### Skills
 
 

@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Praful Vinayak Bhoyar
 =============================================================================================================================================
 
-Data Scientist| Cloud Architect| Python SQL | Data Analyst | BI Developer Help businesses make data-driven decisions and build AI-Powered data products.
+Data Science Trainer| Data Scientist| Cloud Architect| Python SQL | Data Analyst | BI Developer Help businesses make data-driven decisions and build AI-Powered data products.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3+ Years of experience in Data Science Domain with good proficiency in ETL -> Data Preprocessing -> EDA -> Machine Learning -> Deep Evaluation -> Deployment (Using Django, On Cloud) ----> Data Base (SQL) ----> Cloud Based Services(Azure) ----> BI Tools (Tableau | Power BI | Google Data Studio).

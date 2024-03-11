@@ -10,7 +10,7 @@ PhD Schalor | Data Science Trainer| Data Scientist| Cloud Architect| Python SQL 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://professionalportfolioprafulvinayakbhoyar.wordpress.com/)
-* ✉️  You can contact me at [prafulbhoyaar45@gmail.com](mailto:prafulbhoyaar45@gmail.com)
+* ✉️  You can contact me at [prafulbhoyaar45@gmail.com](mailto:prafulbhoyar45@gmail.com)
 * 🚀  I'm currently working on [NLP | Azure Cloud (Data Factory | Azure SQL Analytics and Azure Log Workspace | Manual Backup)](http://professionalportfolioprafulvinayakbhoyar.wordpress.com/)
 * 🧠  I'm learning Deep in NLP
 * 🤝  I'm open to collaborating on NLP and Cloud Computing in Data Science

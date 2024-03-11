@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 PhD Schalor | Data Science Trainer| Data Scientist| Cloud Architect| Python SQL | Data Analyst | BI Developer Help businesses make data-driven decisions and build AI-Powered data products.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3+ Years of experience in Data Science Domain with good proficiency in ETL -> Data Preprocessing -> EDA -> Machine Learning -> Deep Evaluation -> Deployment (Using Django, On Cloud) ----> Data Base (SQL) ----> Cloud Based Services(Azure) ----> BI Tools (Tableau | Power BI | Google Data Studio).
+5+ Years of experience in Data Science Domain with good proficiency in ETL -> Data Preprocessing -> EDA -> Machine Learning -> Deep Evaluation -> Deployment (Using Django, On Cloud) ----> Data Base (SQL) ----> Cloud Based Services(Azure) ----> BI Tools (Tableau | Power BI | Google Data Studio).
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://professionalportfolioprafulvinayakbhoyar.wordpress.com/)

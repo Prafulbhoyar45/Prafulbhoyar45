@@ -8,7 +8,7 @@ PhD Schalor | Data Science Trainer| Data Scientist| Cloud Architect| Python SQL 
 
 5+ Years of experience in Data Science Domain with good proficiency in ETL -> Data Preprocessing -> EDA -> Machine Learning -> Deep Evaluation -> Deployment (Using Django, On Cloud) ----> Data Base (SQL) ----> Cloud Based Services(Azure) ----> BI Tools (Tableau | Power BI | Google Data Studio).
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * 🖥️  See my portfolio at [MyPortfolio](http://professionalportfolioprafulvinayakbhoyar.wordpress.com/)
 * ✉️  You can contact me at [prafulbhoyaar45@gmail.com](mailto:prafulbhoyar45@gmail.com)
 * 🚀  I'm currently working on [NLP | Azure Cloud (Data Factory | Azure SQL Analytics and Azure Log Workspace | Manual Backup)](http://professionalportfolioprafulvinayakbhoyar.wordpress.com/)
